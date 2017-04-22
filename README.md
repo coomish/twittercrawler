@@ -1,2 +1,2 @@
-# php-twitter-crawler
-A simple Twitter crawler that can crawl for tweets containing specific hashtags.
+# crawling one account
+simple twitter crawler
